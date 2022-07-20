@@ -331,7 +331,11 @@ hr {
         display: grid;
         grid-template-columns: 1fr;
     }
-
+    .bottom-sec-button {
+        display: flex;
+        flex-direction: column;
+        width: 60%;
+    }
     
 
     .nav-button {
